@@ -1,6 +1,6 @@
 # CurioQuiz
 
-A new Flutter project.
+A quiz and trivia app.
 
 ## Getting Started
 
